@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rjcostanzo/platinum-site/precache-manifest.d71f5fff4de0d83009195edd0196e9e1.js"
+  "/platinum-dayz/precache-manifest.7d6b8685286211e6eaa9c2e78c0e9c3f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rjcostanzo/platinum-site/index.html", {
+workbox.routing.registerNavigationRoute("/platinum-dayz/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

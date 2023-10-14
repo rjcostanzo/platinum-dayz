@@ -1,13 +1,13 @@
 {
-  "main.css": "/rjcostanzo/platinum-site/static/css/main.7c176ec9.chunk.css",
-  "main.js": "/rjcostanzo/platinum-site/static/js/main.a713f14b.chunk.js",
-  "main.js.map": "/rjcostanzo/platinum-site/static/js/main.a713f14b.chunk.js.map",
-  "static/js/1.02feadb2.chunk.js": "/rjcostanzo/platinum-site/static/js/1.02feadb2.chunk.js",
-  "static/js/1.02feadb2.chunk.js.map": "/rjcostanzo/platinum-site/static/js/1.02feadb2.chunk.js.map",
-  "runtime~main.js": "/rjcostanzo/platinum-site/static/js/runtime~main.92816c65.js",
-  "runtime~main.js.map": "/rjcostanzo/platinum-site/static/js/runtime~main.92816c65.js.map",
-  "static/css/main.7c176ec9.chunk.css.map": "/rjcostanzo/platinum-site/static/css/main.7c176ec9.chunk.css.map",
-  "index.html": "/rjcostanzo/platinum-site/index.html",
-  "precache-manifest.d71f5fff4de0d83009195edd0196e9e1.js": "/rjcostanzo/platinum-site/precache-manifest.d71f5fff4de0d83009195edd0196e9e1.js",
-  "service-worker.js": "/rjcostanzo/platinum-site/service-worker.js"
+  "main.css": "/platinum-dayz/static/css/main.d3c33982.chunk.css",
+  "main.js": "/platinum-dayz/static/js/main.c7df3a31.chunk.js",
+  "main.js.map": "/platinum-dayz/static/js/main.c7df3a31.chunk.js.map",
+  "static/js/1.02feadb2.chunk.js": "/platinum-dayz/static/js/1.02feadb2.chunk.js",
+  "static/js/1.02feadb2.chunk.js.map": "/platinum-dayz/static/js/1.02feadb2.chunk.js.map",
+  "runtime~main.js": "/platinum-dayz/static/js/runtime~main.56ab0b75.js",
+  "runtime~main.js.map": "/platinum-dayz/static/js/runtime~main.56ab0b75.js.map",
+  "static/css/main.d3c33982.chunk.css.map": "/platinum-dayz/static/css/main.d3c33982.chunk.css.map",
+  "index.html": "/platinum-dayz/index.html",
+  "precache-manifest.7d6b8685286211e6eaa9c2e78c0e9c3f.js": "/platinum-dayz/precache-manifest.7d6b8685286211e6eaa9c2e78c0e9c3f.js",
+  "service-worker.js": "/platinum-dayz/service-worker.js"
 }
