@@ -12,15 +12,15 @@
     "eject": "react-scripts eject"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "git+https://github.com/rjcostanzo/platinum-dayz.git"
   },
   "author": "rjcostanzo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rjcostanzo/platinum-site/issues"
+    "url": "https://github.com/rjcostanzo/platinum-dayz/issues"
   },
-  "homepage": "https://github.com/rjcostanzo/platinum-site",
+  "homepage": "https://github.com/rjcostanzo/platinum-dayz",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
