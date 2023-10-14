@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/rjcostanzo/platinum-dayz/issues"
   },
-  "homepage": "https://rjcostanzo.github.io",
+  "homepage": "https://rjcostanzo.github.io/",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
