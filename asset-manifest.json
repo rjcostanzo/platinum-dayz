@@ -1,13 +1,13 @@
 {
-  "main.css": "/platinum-dayz/static/css/main.d3c33982.chunk.css",
-  "main.js": "/platinum-dayz/static/js/main.56d1b043.chunk.js",
-  "main.js.map": "/platinum-dayz/static/js/main.56d1b043.chunk.js.map",
-  "static/js/1.02feadb2.chunk.js": "/platinum-dayz/static/js/1.02feadb2.chunk.js",
-  "static/js/1.02feadb2.chunk.js.map": "/platinum-dayz/static/js/1.02feadb2.chunk.js.map",
-  "runtime~main.js": "/platinum-dayz/static/js/runtime~main.56ab0b75.js",
-  "runtime~main.js.map": "/platinum-dayz/static/js/runtime~main.56ab0b75.js.map",
-  "static/css/main.d3c33982.chunk.css.map": "/platinum-dayz/static/css/main.d3c33982.chunk.css.map",
-  "index.html": "/platinum-dayz/index.html",
-  "precache-manifest.124da591eae5ed24b63d21c600c5d2f2.js": "/platinum-dayz/precache-manifest.124da591eae5ed24b63d21c600c5d2f2.js",
-  "service-worker.js": "/platinum-dayz/service-worker.js"
+  "main.css": "/static/css/main.d3c33982.chunk.css",
+  "main.js": "/static/js/main.5f4f9350.chunk.js",
+  "main.js.map": "/static/js/main.5f4f9350.chunk.js.map",
+  "static/js/1.02feadb2.chunk.js": "/static/js/1.02feadb2.chunk.js",
+  "static/js/1.02feadb2.chunk.js.map": "/static/js/1.02feadb2.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.d3c33982.chunk.css.map": "/static/css/main.d3c33982.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.5d4af71550cede031be95eb4d0ffa3fc.js": "/precache-manifest.5d4af71550cede031be95eb4d0ffa3fc.js",
+  "service-worker.js": "/service-worker.js"
 }
