@@ -3,7 +3,7 @@ export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
-      <section id="resume">
+      <section id="monetization">
 
          <div className="row education">
 
@@ -53,6 +53,9 @@ export default  class Resume extends Component {
                           {item.Achievements2}
                           </p>
                           <p>
+                          {item.Namalsk}
+                          </p>
+                          <p>
                           {item.Achievements3}
                           </p>
                           <p>
@@ -60,6 +63,9 @@ export default  class Resume extends Component {
                           </p>
                           <p>
                           {item.Achievements5}
+                          </p>
+                          <p>
+                          {item.Achievements6}
                           </p>
                        </div>
 
